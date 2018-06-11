@@ -1,6 +1,6 @@
 {
   "name": "webpack-poc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Focus on webpack with an es6 app",
   "main": "index.js",
   "scripts": {
